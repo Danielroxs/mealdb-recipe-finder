@@ -6,19 +6,19 @@ Aplicación frontend que consume **TheMealDB API** para explorar recetas por cat
 
 ### Inicio (selección de categoría)
 
-![Inicio - selección](assets/screenshots/inicio-select.png)
+![Inicio - selección](screenshots/inicio-select.png)
 
 ### Listado de recetas
 
-![Listado de recetas](assets/screenshots/listado-recetas.png)
+![Listado de recetas](screenshots/listado-recetas.png)
 
 ### Vista móvil
 
-![Modal de receta](assets/screenshots/modal-receta.png)
+![Modal de receta](screenshots/modal-receta.png)
 
 ### Favoritos
 
-![Favoritos](assets/screenshots/favoritos.png)
+![Favoritos](screenshots/favoritos.png)
 
 ## Demo
 
@@ -42,14 +42,6 @@ Aplicación frontend que consume **TheMealDB API** para explorar recetas por cat
 - Fetch API
 - LocalStorage
 - TheMealDB API
-
-## Capturas
-
-> Guarda las imágenes en `/assets` y referencia así:
-
-![Home](assets/home.webp)
-![Detalle (Modal)](assets/modal.webp)
-![Favoritos](assets/favorites.webp)
 
 ## Cómo correrlo local
 
