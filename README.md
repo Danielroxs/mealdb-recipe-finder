@@ -22,8 +22,8 @@ Aplicación frontend que consume **TheMealDB API** para explorar recetas por cat
 
 ## Demo
 
-- Live: https://TU-DEPLOY.vercel.app
-- Repo: https://github.com/TU-USUARIO/NOMBRE-DEL-REPO
+- Live: https://themealdb-recipe-explorer.vercel.app/
+- Repo: https://github.com/Danielroxs/mealdb-recipe-finder?tab=readme-ov-file
 
 ## Funcionalidades
 
